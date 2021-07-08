@@ -20,7 +20,7 @@ Port numbers where applications run
 
 > view-producer-app - localhost:8090
 
-After running kafka and postgresql using docker-compose yml, run the mvn clean install script from the terminal and run 
+After running kafka and postgresql using docker-compose yml, run the 'mvn clean install' script from the terminal and run 
 the projects as view-producer-app, stream-reader-app, etl-process-app and api respectively.
 
 Note: Postman collection under doc folder
