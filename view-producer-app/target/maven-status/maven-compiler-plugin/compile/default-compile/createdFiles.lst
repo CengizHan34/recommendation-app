@@ -1,0 +1,7 @@
+com/example/viewproducerapp/model/Properties.class
+com/example/viewproducerapp/model/Context.class
+com/example/viewproducerapp/ViewProducerAppApplication.class
+com/example/viewproducerapp/config/KafkaConfiguration.class
+com/example/viewproducerapp/service/impl/EventServiceImpl.class
+com/example/viewproducerapp/model/ProductView.class
+com/example/viewproducerapp/service/EventService.class

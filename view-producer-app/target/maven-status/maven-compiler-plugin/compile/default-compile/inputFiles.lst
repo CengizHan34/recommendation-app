@@ -1,0 +1,7 @@
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/model/Properties.java
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/ViewProducerAppApplication.java
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/config/KafkaConfiguration.java
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/model/ProductView.java
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/model/Context.java
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/service/impl/EventServiceImpl.java
+/Users/cengizhan/Downloads/microservices-app/view-producer-app/src/main/java/com/example/viewproducerapp/service/EventService.java

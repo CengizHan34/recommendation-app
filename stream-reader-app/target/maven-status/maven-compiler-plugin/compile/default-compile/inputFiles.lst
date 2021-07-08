@@ -1,0 +1,8 @@
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/service/KafkaListenerService.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/entity/ProductView.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/StreamReaderApp.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/config/KafkaConfiguration.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/entity/Properties.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/service/KafkaListenerServiceImpl.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/repository/ProductViewRepository.java
+/Users/cengizhan/Downloads/microservices-app/stream-reader-app/src/main/java/com/example/streamreaderapp/entity/Context.java

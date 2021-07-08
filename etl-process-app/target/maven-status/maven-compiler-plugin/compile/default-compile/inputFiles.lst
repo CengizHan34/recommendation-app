@@ -1,0 +1,14 @@
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/datadb/entity/Orders.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/config/PostgresDBConfig.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/postgres/package-info.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/datadb/repository/ProductsRepository.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/config/DataDBConfig.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/EtlProcessApp.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/service/CategoryProductSaleService.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/datadb/entity/OrderItems.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/dto/CategoryProductSaleDto.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/postgres/repository/CategoryProductSaleRepository.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/service/CategoryProductSaleServiceImpl.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/controller/OrderController.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/postgres/entity/CategoryProductSale.java
+/Users/cengizhan/Downloads/microservices-app/etl-process-app/src/main/java/com/example/eltprocessapp/datadb/entity/Products.java

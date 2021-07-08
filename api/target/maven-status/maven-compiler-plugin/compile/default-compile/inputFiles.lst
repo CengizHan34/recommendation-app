@@ -1,0 +1,12 @@
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/entity/ProductView.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/entity/Context.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/ApiApplication.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/entity/CategoryProductSale.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/dto/Response.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/enums/CustomerType.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/service/ProductViewService.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/repository/CategoryProductSaleRepository.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/entity/Properties.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/service/impl/ProductViewServiceImpl.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/controller/ProductViewController.java
+/Users/cengizhan/Downloads/microservices-app/api/src/main/java/com/example/api/repository/ProductViewRepository.java

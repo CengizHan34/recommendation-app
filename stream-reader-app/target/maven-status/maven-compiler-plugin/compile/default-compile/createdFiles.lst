@@ -1,0 +1,8 @@
+com/example/streamreaderapp/StreamReaderApp.class
+com/example/streamreaderapp/entity/Context.class
+com/example/streamreaderapp/service/KafkaListenerServiceImpl.class
+com/example/streamreaderapp/repository/ProductViewRepository.class
+com/example/streamreaderapp/config/KafkaConfiguration.class
+com/example/streamreaderapp/service/KafkaListenerService.class
+com/example/streamreaderapp/entity/Properties.class
+com/example/streamreaderapp/entity/ProductView.class

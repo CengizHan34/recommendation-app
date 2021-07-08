@@ -1,0 +1,7 @@
+com/example/api/entity/ProductView.class
+com/example/api/ApiApplication.class
+com/example/api/repository/ProductViewRepository.class
+com/example/api/controller/ProductViewController.class
+com/example/api/entity/Properties.class
+com/example/api/entity/Context.class
+com/example/api/service/ProductViewService.class
