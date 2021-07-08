@@ -12,10 +12,10 @@ Used technologies
 
 Port numbers where applications run
 
-api > localhost:9090
-etl-process-app > localhost:9100
-stream-reader-app > localhost:8080
-view-producer-app > localhost:8090
+> api - localhost:9090
+> etl-process-app - localhost:9100
+> stream-reader-app - localhost:8080
+> view-producer-app - localhost:8090
 
 After running kafka and postgresql using docker-compose yml, run the mvn clean install script from the terminal and run 
 the projects as view-producer-app, stream-reader-app, etl-process-app and api respectively.
